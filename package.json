@@ -1,0 +1,22 @@
+{
+  "name": "react-native-phone-input",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manav-kasare/react-native-phone-input.git"
+  },
+  "description": "Phone number input for react native",
+  
+  "nativePackage": false,
+  "bugs": {
+    "url": "https://github.com/manav-kasare/react-native-phone-input/issues"
+  },
+  "homepage": "https://github.com/manav-kasare/react-native-phone-input",
+  "main": "index.js",
+  "author": "Manav Kasare",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.51.0",
+    "react": ">=16.0.0"
+  }
+}
